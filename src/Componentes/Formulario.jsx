@@ -37,7 +37,7 @@ const [input, setInput] = useState('');
         onChange={manejarCambio}
         />
         <button className="tarea-boton">
-            Aregar Tarea
+            Agregar Tarea 
             </button>
       </form>
     );
